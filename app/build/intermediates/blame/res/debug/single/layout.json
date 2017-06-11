@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\MyNotePad\\iBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MyNotePad\\iBook1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MyNotePad\\iBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "E:\\MyNotePad\\iBook1\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\MyNotePad\\iBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_listview.xml",
+        "source": "E:\\MyNotePad\\iBook1\\app\\src\\main\\res\\layout\\adapter_listview.xml"
+    },
+    {
+        "merged": "E:\\MyNotePad\\iBook1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "E:\\MyNotePad\\iBook1\\app\\src\\main\\res\\layout\\activity_second.xml"
+    }
+]

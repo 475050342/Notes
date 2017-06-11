@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\MyNotePad\\iBook1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\new_note_pressed.png",
+        "source": "E:\\MyNotePad\\iBook1\\app\\src\\main\\res\\drawable-hdpi\\new_note_pressed.png"
+    },
+    {
+        "merged": "E:\\MyNotePad\\iBook1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\new_note_normal.png",
+        "source": "E:\\MyNotePad\\iBook1\\app\\src\\main\\res\\drawable-hdpi\\new_note_normal.png"
+    },
+    {
+        "merged": "E:\\MyNotePad\\iBook1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_app.png",
+        "source": "E:\\MyNotePad\\iBook1\\app\\src\\main\\res\\drawable-hdpi\\icon_app.png"
+    }
+]
